@@ -1,5 +1,5 @@
 # Welcome to AlexPewMaster's storage!
-This is my personal storage for sharing guides & other stuff that some people may find useful.
+This is my personal storage for sharing guides & other stuff that some people may find useful. Use this readme file to navigate through my repo!
 
 # Disclaimer
 I'm not a professional. I'm creating these guides when I'm bored. Use these guides at your own risk!
