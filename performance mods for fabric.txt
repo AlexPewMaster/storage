@@ -1,0 +1,35 @@
+this is a list of performance mods for fabric. pretty cool!
+
+note: you will need some library mods that the mods require. here's a list:
+- fabric api
+- cloth config api
+- mod menu
+- fabric language kotlin
+- indium
+- yet another config lib
+
+these are the actual performance mods that will improve your minecraft experience and performance:
+- sodium
+- sodium extra (reese's sodium options required)
+- lithium
+- starlight
+- lazydfu
+- ferritecore
+- immediatelyfast
+- fastanim
+- model gap fix
+- cull less leaves
+- dynamic fps
+- krypton
+- language reload
+- advancements debug
+- iris
+- memory leak fix
+- smooth boot
+- no telemetry
+- no fog
+- bactromod
+- skinpartsrefresher
+
+written by AlexPewMaster#3344 on discord. message me if you want other documents by me.
+document version 1.0

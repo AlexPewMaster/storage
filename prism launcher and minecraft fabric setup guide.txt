@@ -1,0 +1,80 @@
+hello, this is a document about installing prism launcher and setting up a new instance for minecraft fabric!
+you're probably wondering: "what's the purpose of doing this?" well, it has a lot of stuff that generally improves the minecraft experience.
+
+1. installing prism launcher and setting it up
+ 1. go to https://prismlauncher.org and download the newest version for your os
+ 2. follow the instructions in the installer
+ 3. if the installation is done, open the prism launcher
+ 4. choose your language (english is highly recommended)
+ 5. select java 17 from the list (if you don't have the option to select java 17, you need to download it at https://adoptium.net/temurin/releases/ )
+
+2. adding your minecraft account to the prism launcher
+ 1. click on the accounts tab at the top right of the launcher
+ 2. select "manage accounts"
+ 3. click "add microsoft account" or "add mojang account" (if you migrated your account already, select the first option)
+ 4. follow the instructions on screen
+
+3. creating a brand new instance of minecraft fabric
+ 1. click "add instance" at the top left of the launcher
+ 2. select "vanilla" at the left list
+ 3. name your instance and create a new group if you want to (you can change this later of course)
+ 4. select "fabric" on the mod loader list and then select the fabric loader version 0.14.14
+ 5. click on "create"
+
+4. (optional) migrating all of your minecraft worlds, texturepacks and other things to the new instance
+ 1. locate your original .minecraft folder (usually in your /appdata/roaming folder)
+ 2. right click on your instance in the prism launcher and click "folder"
+ 3. copy the whole .minecraft folder to the instance folder
+ 4. (optional but not recommended) delete the old .minecraft folder
+
+5. adding new mods to the fabric instance
+ note: before adding new mods, check if they're client-side or server-side (you can check that by going to https://modrinth.com/mods/ and searching for the mod there). i highly recommend you to only install client-side mods.
+ 1. right click on your instance in the prism launcher and click "edit"
+ 2. select the "mods" tab
+ 3. select the "download mods" button at the top right
+ 4. select modrinth for your mod provider (if you cant find the mod you're looking for, try searching on curseforge instead)
+ 5. search for the mods you're looking for and select "select mod for download" (make sure you're installing the correct version of the mod)
+ 6. if you're done looking for mods and selecting them, click on "review and confirm" and check if everything looks alright
+ 7. finally, click "download"
+
+6. testing if your instance is working
+ 1. select your instance and click "launch"
+ 2. see if minecraft is starting and working fine
+ 3. create a new test world to see if your minecraft crashes
+
+if your minecraft doesn't crash, that's a great sign! you did every step correctly and can now play with mods!
+
+if you don't know which mods to download, here is a great list of mods you absolutely need to install:
+ - sodium
+  - sodium extra
+  - reese's better sodium options
+ - lithium
+ - starlight
+ - fabric api
+ - gamma utils
+ - malilib (only available at curseforge at the moment)
+ - iris shaders
+ - entityculling
+ - cloth config api
+ - mod menu
+ - camera utils
+ - amecs
+ - bactromod
+ - better ping display
+ - bobby
+ - bookshelf (only available at curseforge at the moment)
+ - sound physics remastered
+ - tooltip fix
+ - model gap fix
+ - no telemetry
+ - smooth boot
+ - lazydfu
+ - krypton
+ - fabric language kotlin
+ - ferritecore
+ - dynamic fps
+ - dark loading screen
+ - borderless mining
+
+(written by AlexPewMaster#3344 on discord, message me if you encounter a problem during this process.)
+(document version 1.1)
