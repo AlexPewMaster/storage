@@ -1,2 +1,2 @@
-# storage
-This is AlexPewMaster's storage. You can find some guides &amp; more here.
+# Welcome to AlexPewMaster's storage!
+This is a private repository containing some guides & more! There isn't anything there yet, but it will fill over time!
